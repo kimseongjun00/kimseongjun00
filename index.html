@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kim Sung-jun's Portfolio</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header, section {
+            padding: 20px;
+        }
+        #clock {
+            font-size: 20px;
+        }
+        footer {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Kim Sung-jun's Portfolio</h1>
+        <div id="clock"></div>
+        <script>
+            function updateClock() {
+                const options = { timeZone: 'Asia/Seoul', hour12: false };
+                const kstTime = new Date().toLocaleString('en-US', options);
+                options.timeZone = 'UTC';
+                const utcTime = new Date().toLocaleString('en-US', options);
+                options.timeZone = 'America/New_York';
+                const estTime = new Date().toLocaleString('en-US', options);
+                options.timeZone = 'America/Los_Angeles';
+                const pstTime = new Date().toLocaleString('en-US', options);
+                document.getElementById('clock').innerHTML = 
+                    `<strong>KST:</strong> ${kstTime} <br>
+                     <strong>UTC:</strong> ${utcTime} <br>
+                     <strong>EST:</strong> ${estTime} <br>
+                     <strong>PST:</strong> ${pstTime}`;
+            }
+            setInterval(updateClock, 1000);
+            updateClock();
+        </script>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>Tech Stack: C, Java, Spring, MySQL, React</p>
+    </section>
+    <section>
+        <h2>Projects</h2>
+        <p>GYMCANCE: A project that demonstrates advanced techniques in fitness tracking and gym management.</p>
+    </section>
+    <footer>
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:audrhtjdwns@naver.com">audrhtjdwns@naver.com</a></p>
+    </footer>
+</body>
+</html>
