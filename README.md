@@ -33,7 +33,7 @@
 
 ## 🏗 Building
 
-### 짐캉스 (Gymcance) &nbsp;—&nbsp; [gymcance.com](https://www.gymcance.com)
+### <img src="logo_final.png" width="28" style="vertical-align:middle"/> 짐캉스 (Gymcance) &nbsp;—&nbsp; [gymcance.com](https://www.gymcance.com)
 
 > 정기권 없이 원하는 날만 결제하는 **운동시설 일일권 통합 플랫폼**
 
