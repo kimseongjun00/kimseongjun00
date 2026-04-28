@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3D6B4A,100:5C8E6A&height=220&section=header&text=Kim%20Seongjun&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Developer%20%26%20Founder%20%7C%20HUFS%20Computer%20Science&descSize=17&descAlignY=62&descColor=d4edd9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3D6B4A,5C8E6A&height=200&section=header&text=Kim%20Seongjun&fontSize=56&fontColor=ffffff&fontAlignY=45)
+
+<h3>Developer & Founder &nbsp;·&nbsp; 한국외국어대학교 컴퓨터공학과</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2500&color=3D6B4A&center=true&vCenter=true&multiline=true&width=600&height=64&lines=아이디어를+제품으로+만드는+개발자;기획부터+배포까지%2C+혼자+완성합니다)](https://git.io/typing-svg)
 
