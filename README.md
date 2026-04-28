@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3D6B4A,5C8E6A&height=220&section=header&text=Kim%20Seongjun&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Developer%20%26%20Founder%20%7C%20HUFS%20Computer%20Science&descSize=17&descAlignY=62&descColor=d4edd9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3D6B4A,100:5C8E6A&height=220&section=header&text=Kim%20Seongjun&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Developer%20%26%20Founder%20%7C%20HUFS%20Computer%20Science&descSize=17&descAlignY=62&descColor=d4edd9)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3D6B4A&center=true&vCenter=true&width=580&lines=불합리한+걸+발견하면+코드로+고칩니다;React+Native+%2B+Spring+Boot+Developer;Gymcance+Creator+—+gymcance.com)](https://git.io/typing-svg)
 
@@ -90,4 +90,4 @@
   <sub>정기권 강요를 깨는 온디맨드 운동 문화를 만들겠습니다.</sub>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=3D6B4A,5C8E6A&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3D6B4A,100:5C8E6A&height=120&section=footer)
